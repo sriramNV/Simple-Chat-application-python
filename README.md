@@ -1,4 +1,5 @@
 # Simple-Chat-application-python
+
 Basic UDP chat application using sockets
 You can chane number of clients by modifying "SERVER.listen(7)" at line 50 in server.py.
 
